@@ -1,0 +1,15 @@
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\bin\Debug\net10.0-windows\BanVeXemPhim.exe
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\bin\Debug\net10.0-windows\BanVeXemPhim.deps.json
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\bin\Debug\net10.0-windows\BanVeXemPhim.runtimeconfig.json
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\bin\Debug\net10.0-windows\BanVeXemPhim.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\bin\Debug\net10.0-windows\BanVeXemPhim.pdb
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.AssemblyInfoInputs.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.AssemblyInfo.cs
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\refint\BanVeXemPhim.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.pdb
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXemPhim.genruntimeconfig.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\ref\BanVeXemPhim.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai5\obj\Debug\net10.0-windows\BanVeXem.F1763B4B.Up2Date
